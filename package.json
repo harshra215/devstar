@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/manan30/svelte-trivia.git"
+    "url": "https://github.com/harshra215/Project.git"
   },
   "keywords": [
     "Svelte",
     "WebDev",
     "JavaScript"
   ],
-  "homepage": "https://manan30.github.io/svelte-trivia/",
+  "homepage": "https://github.com/harshra215/Project",
   "devDependencies": {
     "eslint": "6.7.0",
     "eslint-config-airbnb-base": "14.0.0",
